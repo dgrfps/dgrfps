@@ -1,8 +1,7 @@
 <h1> About <img src="https://komarev.com/ghpvc/?username=dgrfps&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </h1>
 
 ### [Check it out!](https://dgrfps.github.io)  
-Currently developing a suitable color based [Valorant Cheat](https://github.com/dgrfps/valorant).  
-Aiming to integrate Arduino into cheats through mouse drivers and/or shields.  
+Developer of a color based [Valorant Cheat](https://github.com/dgrfps/valorant).  
 
 Some of my previous experiencies
 
