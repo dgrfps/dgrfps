@@ -1,8 +1,3 @@
-<h1> About <img src="https://komarev.com/ghpvc/?username=dgrfps&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </h1>
-
-### [Check it out!](https://dgrfps.github.io)  
-Developer of a color based [Valorant Cheat](https://github.com/dgrfps/valorant).  
-
 Some of my previous experiencies
 
 | Languages 	| Frameworks 	| Engines 	| Backend 	| Databases 	| Other 	|
